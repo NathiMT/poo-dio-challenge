@@ -1,3 +1,3 @@
-# Dio POO challenge
+## Dio's OOP Challenge
 
-This repository was created for Dio's OOP challenge.
+This repository was created for DIO's OOP challenge.
